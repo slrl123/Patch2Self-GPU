@@ -1,7 +1,0 @@
-torch>=2.0
-numpy>=1.22
-nibabel>=4.0
-setproctitle>=1.3
-matplotlib>=3.5          # only for --visualize in the single-case script
-pytest>=7.0              # only for tests/
-scikit-learn>=1.0        # only for tests/ (reference solver)
