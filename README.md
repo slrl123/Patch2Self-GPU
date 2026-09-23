@@ -265,7 +265,7 @@ If this is useful, please cite:
                   diffusion {MRI}},
   author       = {Su, Dayong},
   year         = {2026},
-  howpublished = {\url{<repo-url>}},
+  howpublished = {\url{https://github.com/slrl123/Patch2Self-GPU}},
   note         = {GPU re-implementation of DIPY's Patch2Self
                   \cite{fadnavis2020patch2self, fadnavis2024patch2self}}
 }
