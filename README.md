@@ -83,7 +83,7 @@ Patch2Self reference code does. Pass `shift_intensity=False` to disable.
 ## Installation
 
 ```bash
-git clone <repo-url> patch2self_GPU
+git clone https://github.com/slrl123/Patch2Self-GPU patch2self_GPU
 cd patch2self_GPU
 pip install -r requirements.txt
 ```
