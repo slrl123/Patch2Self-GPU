@@ -263,7 +263,7 @@ If this is useful, please cite:
 @misc{patch2self_gpu,
   title        = {{Patch2Self-GPU}: GPU-accelerated Patch2Self denoising for
                   diffusion {MRI}},
-  author       = {Su, Dayong and Fan, Zhang},
+  author       = {Su, Dayong and Zhang, Fan},
   year         = {2026},
   howpublished = {\url{https://github.com/slrl123/Patch2Self-GPU}},
   note         = {GPU re-implementation of DIPY's Patch2Self
